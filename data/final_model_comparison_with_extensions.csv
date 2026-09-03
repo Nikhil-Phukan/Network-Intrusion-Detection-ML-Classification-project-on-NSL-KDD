@@ -1,0 +1,6 @@
+model,macro_f1,novel_attack_detection_rate
+Logistic Regression (baseline),0.61,0.434
+Logistic Regression + SMOTE,0.607,0.456
+XGBoost,0.534,0.369
+Decision Tree (baseline),0.502,0.428
+Random Forest (baseline),0.473,0.146

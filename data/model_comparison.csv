@@ -1,0 +1,4 @@
+model,macro_f1,weighted_f1,novel_attack_detection_rate
+Logistic Regression,0.6093,0.7821,0.4347
+Decision Tree,0.5016,0.7121,0.428
+Random Forest,0.4738,0.6906,0.1507

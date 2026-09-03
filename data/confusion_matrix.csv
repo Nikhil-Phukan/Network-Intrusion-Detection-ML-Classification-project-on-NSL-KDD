@@ -1,0 +1,6 @@
+,pred_normal,pred_DoS,pred_Probe,pred_R2L,pred_U2R
+actual_normal,9161,58,274,99,119
+actual_DoS,1346,5836,272,0,6
+actual_Probe,209,81,2128,2,1
+actual_R2L,1689,0,161,740,295
+actual_U2R,14,0,2,13,38
