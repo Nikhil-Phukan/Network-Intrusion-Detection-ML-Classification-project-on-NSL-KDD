@@ -2,7 +2,7 @@
 
 An intrusion detection system (IDS) built on the real NSL-KDD benchmark dataset, comparing multiple ML models on their ability to detect network attacks — including attack types never seen during training.
 
-**Live dashboard:** _add your Streamlit Cloud URL here after deploying_
+**Live dashboard:** _[add your Streamlit Cloud URL here after deploying](https://network-intrusion-detection-ml-classification-project-on-nsl-k.streamlit.app/)_
 
 ## What this project does
 
